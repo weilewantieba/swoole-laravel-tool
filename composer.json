@@ -1,0 +1,26 @@
+{
+    "name": "siyuan/swoole-laravel-tool",
+    "description": "swoole-laravel-tool",
+    "type": "library",
+    "authors": [
+        {
+            "name": "weilewantieba",
+            "email": "weilewantieba@126.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "classmap": [
+
+        ],
+        "files": [
+
+            "app/Helpers/Helpers.php"
+        ],
+        "psr-4": {
+            "someline\\swoolelaravel\\": "swooletool/"
+        }
+    },
+}
