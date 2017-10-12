@@ -22,5 +22,5 @@
         "psr-4": {
             "someline\\swoolelaravel\\": "swooletool/"
         }
-    },
+    }
 }
