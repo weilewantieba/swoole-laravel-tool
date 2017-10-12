@@ -20,7 +20,7 @@
             "app/Helpers/Helpers.php"
         ],
         "psr-4": {
-            "someline\\swoolelaravel\\": "swooletool/"
+            "swoolelaravel\\": "swooletool/"
         }
     }
 }

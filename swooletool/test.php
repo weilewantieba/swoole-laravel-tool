@@ -1,5 +1,5 @@
 <?php
-
+namespace swoolelaravel;
 /**
  * Created by PhpStorm.
  * User: SiYuan
