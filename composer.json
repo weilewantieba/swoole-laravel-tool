@@ -16,8 +16,6 @@
 
         ],
         "files": [
-
-            "app/Helpers/Helpers.php"
         ],
         "psr-4": {
             "swoolelaravel\\": "swooletool/"
