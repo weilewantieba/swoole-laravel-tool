@@ -18,7 +18,7 @@
         "files": [
         ],
         "psr-4": {
-            "siyuan\\swoolelaravel\\": "swooletool/"
+            "Siyuan\\Swoolelaravel\\": "swooletool/"
         }
     }
 }
