@@ -12,7 +12,7 @@ class SwooleLogFacade
 {
     protected static function getFacadeAccessor()
     {
-        return 'swoolelog';
+        return 'swooleLog';
     }
 
 }
