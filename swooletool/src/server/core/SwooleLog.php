@@ -1,5 +1,5 @@
 <?php
-namespace Swoolelaravel\Server\Core;
+namespace Siyuan\Swoolelaravel\Server\Core;
 /**
  * Created by PhpStorm.
  * User: SiYuan

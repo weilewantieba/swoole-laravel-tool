@@ -6,9 +6,9 @@
  * Date: 2017/10/14
  * Time: 上午10:05
  */
-namespace Swoolelaravel\Server\Provider;
+namespace Siyuan\Swoolelaravel\Server\Provider;
 use Illuminate\Support\ServiceProvider;
-use Swoolelaravel\Server\Core\SwooleLog;
+use Siyuan\Swoolelaravel\Server\Core\SwooleLog;
 
 class SwooleLogServiceProvider extends ServiceProvider
 {

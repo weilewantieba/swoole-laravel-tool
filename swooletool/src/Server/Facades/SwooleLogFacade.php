@@ -1,5 +1,5 @@
 <?php
-namespace Swoolelaravel\Server\Facades;
+namespace Siyuan\Swoolelaravel\Server\Facades;
 
 
 use Illuminate\Support\Facades\Facade;
@@ -15,5 +15,4 @@ class SwooleLogFacade extends Facade
     {
         return 'swoolelog';
     }
-}
 }
